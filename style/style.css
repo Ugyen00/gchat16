@@ -12,7 +12,7 @@ body {
     height: 100vh;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('bg_img.png');
+    background: linear-gradient(45deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url('/bg/bg_img.png');
     background-size: cover;
     background-position: center;
     overflow: hidden;
